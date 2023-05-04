@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-이렇게 하는거였어?
+정말 모르겠다...
 </body>
 </html>
