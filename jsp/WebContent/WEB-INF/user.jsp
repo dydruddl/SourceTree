@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-user1 왜 안됨?
+user1
 </body>
 </html>
