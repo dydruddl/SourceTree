@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-user
+main
 </body>
 </html>
